@@ -1,10 +1,10 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import {
- Activity, ArrowRight, Atom, Award, Bookmark, BookOpen,
+ Activity, ArrowRight, Award, Bookmark, BookOpen,
  Brain, Check, CheckCircle2, ChevronDown, ChevronRight, CircleHelp,
- Clock3, Compass, FlaskConical, GraduationCap, Heart, History, Lightbulb,
- ListChecks, Menu, MessageCircle, Moon, NotebookPen, Play, Plus, Search,
- Send, Settings2, Sparkles, Star, Sun, Target, TrendingUp, Trophy, X, Zap, Timer, ClipboardCheck, Download, PlayCircle, PauseCircle, BrainCircuit, Gauge, RotateCcw
+ Clock3, Compass, Heart, Lightbulb,
+ ListChecks, Menu, Moon, NotebookPen, Plus, Search,
+ Send, Settings2, Sparkles, Sun, Target, Trophy, X, Zap, Timer, ClipboardCheck, PlayCircle, PauseCircle, BrainCircuit, Gauge, RotateCcw
 } from 'lucide-react';
 import './App.css';
 
