@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import {
- Activity, ArrowDownRight, ArrowRight, Atom, Award, Bookmark, BookOpen,
+ Activity, ArrowRight, Atom, Award, Bookmark, BookOpen,
  Brain, Check, CheckCircle2, ChevronDown, ChevronRight, CircleHelp,
  Clock3, Compass, FlaskConical, GraduationCap, Heart, History, Lightbulb,
  ListChecks, Menu, MessageCircle, Moon, NotebookPen, Play, Plus, Search,
